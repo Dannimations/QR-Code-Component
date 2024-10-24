@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color: #d5e1ef;
+    font-family: Outfit;
+}
+#main-container{
+    border-radius: 15px;
+    width: 20%;
+    margin: 0% auto;
+    background-color: white;
+    box-shadow: 15px 15px 15px#cccccc52;
+    text-align: center;
+    padding: 15px 15px;
+}
+#main-container img{
+    width: 100%;
+    border-radius: 10px;
+}
